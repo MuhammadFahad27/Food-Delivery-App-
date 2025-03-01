@@ -1,5 +1,5 @@
 import {  NavLink } from "react-router-dom"
-import logo from "../assets/logo.PNG"
+import logo from "../assets/logo.png"
 import { CiSearch } from "react-icons/ci";
 import { FaCartArrowDown } from "react-icons/fa";
 import { GiHamburgerMenu } from "react-icons/gi";
